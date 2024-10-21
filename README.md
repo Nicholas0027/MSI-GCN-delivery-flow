@@ -13,7 +13,7 @@ We construct a heterogeneous graph convolutional network that considers four typ
 - pandas
 
 ## 2. Dataset
-We provide the [Subjective dataset for deep learning in Information Theory of Cartography (SITC)](./data/) in this repository.
+We provide the dataset of instant delivery flow prediction in this repository.
 
 | File Name / Folder                          | Content                                                             |
 | ------------------------------------------- | ------------------------------------------------------------------- |
